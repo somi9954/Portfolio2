@@ -4,7 +4,7 @@ const Intro = () => {
   <div className="container">
     <div className="section-flex intro">
       <div className="section-left">
-        <img src="/images/me.jpg" alt="intro" />
+        <img src="/Portfolio2/images/me.jpg" alt="intro" />
       </div>
       <div className="section-right">
         <p className="weight-light">Hello, My name is</p>

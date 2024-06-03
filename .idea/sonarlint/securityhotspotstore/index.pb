@@ -58,12 +58,8 @@ M
 src/css/scss/_responsive.scss,4\b\4b8cf7fe0391b393280a8df00508a2673d0213f1
 E
 src/css/style.css.map,0\d\0dc91318e0bffc602aaf5b141e7b43e915bf407e
-U
-%node_modules/react-slick/lib/index.js,d\6\d62d2bcabe3d69156fd1c40f4bcc008b4e9944a9
 ;
 .prettierrc,2\0\20137a9e94744624390b6748bc96df5ca1579b71
-[
-+node_modules/swiper/types/swiper-class.d.ts,3\3\33de7fde048a17247f5f35ce7594ee04813057bf
 w
 G.idea/sonarlint/issuestore/d/6/d62d2bcabe3d69156fd1c40f4bcc008b4e9944a9,8\4\84ddfceb54462c3e28db750816864051f846dc85
 w

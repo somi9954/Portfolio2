@@ -2,21 +2,21 @@ export const ServicesData = [
   {
     id: 1,
     title: 'Frontend',
-    images: ['/images/css.png', '/images/html.png', '/images/JS.png', '/images/react.png'],
+    images: ['/Portfolio2/images/css.png', '/Portfolio2/images/html.png', '/Portfolio2/images/JS.png', '/Portfolio2/images/react.png'],
   },
   {
     id: 2,
     title: 'Backend',
-    images: ['/images/java.png', '/images/spring.png', '/images/spring_boot.png', '/images/mysql.png', '/images/oracle.png'],
+    images: ['/Portfolio2/images/java.png', '/Portfolio2/images/spring.png', '/Portfolio2/images/spring_boot.png', '/Portfolio2/images/mysql.png', '/Portfolio2/images/oracle.png'],
   },
   {
     id: 3,
     title: 'Version Control',
-    images: ['/images/git.png', '/images/github.png'],
+    images: ['/Portfolio2/images/git.png', '/Portfolio2/images/github.png'],
   },
   {
     id: 4,
     title: 'Development Tools',
-    images: [ '/images/vscode.png','/images/intelij.png', '/images/dbeaver.png'],
+    images: [ '/Portfolio2/images/vscode.png','/Portfolio2/images/intelij.png', '/Portfolio2/images/dbeaver.png'],
   },
 ]
