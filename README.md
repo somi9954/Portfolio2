@@ -5,6 +5,8 @@
 
 찾아주셔서 감사합니다.
 
+[포트폴리오 링크](https://somi9954.github.io/Portfolio2/)
+
 
 
 
